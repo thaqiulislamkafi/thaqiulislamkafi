@@ -1,16 +1,45 @@
-## Hi there 👋
-[![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
-<!--
-**thaqiulislamkafi/thaqiulislamkafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Thaqi Ul Islam!
 
-Here are some ideas to get you started:
+### 💻 MERN Stack Developer | 🔐 Firebase | ⚙️ Spring Boot + MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springboot)
+
+---
+
+## 📂 My Projects
+
+- 🔗 [**Profast**](https://github.com/yourusername/profast): A parcel delivery platform built with Node.js, MongoDB, and Firebase.
+- 🏠 [**Real Estate App**](https://github.com/yourusername/real-estate): A full-stack property listing app with secure Stripe payments.
+- 💬 [**MyReviews Dashboard**](https://github.com/yourusername/myreviews): User review dashboard using React + TanStack Query.
+
+---
+
+## 🧠 Currently Learning
+
+- 🔐 JWT Authentication in Spring Boot
+- ☁️ Cloud Deployment with Vercel and Railway
+- 🧠 AI Prompt Engineering
+
+---
+
+## 📫 Contact Me
+
+- ✉️ Email: yourname@email.com
+- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+
+---
+
+## ⚡ Fun Fact
+
+> “I try to solve every problem using AI first. If it doesn’t work, I learn from experts.”
+
+---
