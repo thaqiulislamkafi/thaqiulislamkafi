@@ -27,6 +27,7 @@
 - 🧠 AI Prompt Engineering
 
 ---
+![](https://komarev.com/ghpvc/?username=thaqiulislamkafi&color=blue)
 
 ![Thaqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaqiulislamkafi&show_icons=true&theme=radical)
 
