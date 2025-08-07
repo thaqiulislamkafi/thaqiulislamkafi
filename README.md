@@ -1,4 +1,4 @@
-<h2>#  Hi, I'm Thaqi Ul Islam Kafi!</h2>
+<h1 align='center'>#  Hi, I'm Thaqi Ul Islam Kafi!</h1>
 <h4 align="center">a passionate CSE from Bangladesh who loves creating impactful web applications.  
 
  Currently focused on **web application development** using JavaScript frameworks like **React** and **Node.js**, with a strong mindset for solving problems through clean, efficient code. </h4>
