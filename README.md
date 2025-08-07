@@ -1,8 +1,7 @@
-# 👋 Hi, I'm Thaqi Ul Islam Kafi!
-<h3 align="center">a passionate CSE from Bangladesh who loves creating impactful web applications.  
+<h2>#  Hi, I'm Thaqi Ul Islam Kafi!</h2>
+<h4 align="center">a passionate CSE from Bangladesh who loves creating impactful web applications.  
 
-💻 Currently focused on **web application development** using JavaScript frameworks like **React** and **Node.js**, with a strong mindset for solving problems through clean, efficient code.  
-🚀 I enjoy transforming ideas into scalable, secure, and user-friendly solutions that make a real difference.  </h3>
+ Currently focused on **web application development** using JavaScript frameworks like **React** and **Node.js**, with a strong mindset for solving problems through clean, efficient code. </h4>
 
 ---
 
