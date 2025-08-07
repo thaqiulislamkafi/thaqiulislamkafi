@@ -1,5 +1,5 @@
 ## Hi there 👋
-![kafi's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
+[![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
 <!--
 **thaqiulislamkafi/thaqiulislamkafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
