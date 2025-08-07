@@ -2,7 +2,7 @@
 
 <!--
 **thaqiulislamkafi/thaqiulislamkafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![kafi's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
