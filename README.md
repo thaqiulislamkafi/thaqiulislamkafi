@@ -1,45 +1,52 @@
-# 👋 Hi, I'm Thaqi Ul Islam!
+# 👋 Hey there, I'm Thaqi Ul Islam!
 
-### 💻 MERN Stack Developer | 🔐 Firebase | ⚙️ Spring Boot + MongoDB
+[![](https://komarev.com/ghpvc/?username=thaqiul)](https://github.com/thaqiul)
+[![wakatime](https://wakatime.com/badge/user/your-wakatime-user-id.svg)](https://wakatime.com/@your-wakatime-user-id)
 
 ---
 
-## 🚀 Tech Stack
+### 🧠 21yo developer building cool web things
+- MERN Stack Developer + Firebase Auth Enthusiast
+- Backend: Node.js, Express, Spring Boot + MongoDB
+- Passionate about clean code, AI, and automation
+
+🚀 Currently building:
+- **Profast** – parcel delivery app with role-based control
+- **Real Estate Hub** – property platform with Stripe integration
+- **Admin Dashboard** – secure role and permission management
+
+---
+
+<details>
+<summary>📊 GitHub Activity</summary>
+
+| Overview |
+|:--------:|
+| ![Metrics](https://raw.githubusercontent.com/thaqiul/thaqiul/main/assets/metrics.plugin.code.lines.svg) |
+
+</details>
+
+---
+
+## ⚡ Tech Stack
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springboot)
 
 ---
 
-## 📂 My Projects
+## 📫 Let’s Connect
 
-- 🔗 [**Profast**](https://github.com/yourusername/profast): A parcel delivery platform built with Node.js, MongoDB, and Firebase.
-- 🏠 [**Real Estate App**](https://github.com/yourusername/real-estate): A full-stack property listing app with secure Stripe payments.
-- 💬 [**MyReviews Dashboard**](https://github.com/yourusername/myreviews): User review dashboard using React + TanStack Query.
-
----
-
-## 🧠 Currently Learning
-
-- 🔐 JWT Authentication in Spring Boot
-- ☁️ Cloud Deployment with Vercel and Railway
-- 🧠 AI Prompt Engineering
-
----
-
-## 📫 Contact Me
-
-- ✉️ Email: yourname@email.com
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 📧 Email: your@email.com
+- 🌍 Portfolio: [yourportfolio.com](https://yourportfolio.com)
 - 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 🐦 Twitter/X: [@yourhandle](https://x.com/yourhandle)
+- 💬 Most active on [Discord](https://t.co/QPthpsZ1Qu)
 
 ---
 
-## ⚡ Fun Fact
-
-> “I try to solve every problem using AI first. If it doesn’t work, I learn from experts.”
-
----
+<sub>“I try to solve every problem using AI first. If that fails, I learn from experts.”</sub>
