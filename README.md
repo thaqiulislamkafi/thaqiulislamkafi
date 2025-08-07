@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Thaqi Ul Islam!
 
-[![](https://komarev.com/ghpvc/?username=thaqiul)](https://github.com/thaqiul)
+[![](https://komarev.com/ghpvc/?username=thaqiulislamkafi)](https://github.com/thaqiulislamkafi)
 [![wakatime](https://wakatime.com/badge/user/your-wakatime-user-id.svg)](https://wakatime.com/@your-wakatime-user-id)
 
 ---
@@ -22,7 +22,7 @@
 
 | Overview |
 |:--------:|
-| ![Metrics](https://raw.githubusercontent.com/thaqiul/thaqiul/main/assets/metrics.plugin.code.lines.svg) |
+| ![Metrics](https://raw.githubusercontent.com/thaqiul/thaqiulislamkafi/main/assets/metrics.plugin.code.lines.svg) |
 
 </details>
 
