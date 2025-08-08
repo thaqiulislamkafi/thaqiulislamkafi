@@ -4,7 +4,7 @@
 
 
 <h1 align="center"><b>Hi, I'm Thaqi Ul Islam Kafi!</b></h1>
-<h2 align="center"><b>WEB Developer || Loves to work in Javascript based frameworks</b></h2>
+<h5 align="center"><b>WEB Developer || Loves to work in Javascript based frameworks</b></h5>
 <h4 align="center">a passionate CSE student from Bangladesh who loves creating impactful web applications.  
 
  Currently focused on **web application development** using JavaScript frameworks like **React** and **Node.js**, with a strong mindset for solving problems through clean, efficient code. </h4>
