@@ -31,7 +31,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=thaqiulislamkafi&show_icons=true&theme=radical&hide_title=false&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="180px" />
 
 ---
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thaqiulislamkafi&" alt="ahnaf-221b" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thaqiulislamkafi)](https://git.io/streak-stats)
 
 ## 📫 Contact Me
 
@@ -39,11 +39,5 @@
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 - 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-
----
-
-## ⚡ Fun Fact
-
-> “I try to solve every problem using AI first. If it doesn’t work, I learn from experts.”
 
 ---
