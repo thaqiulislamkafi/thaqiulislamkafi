@@ -31,7 +31,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=thaqiulislamkafi&show_icons=true&theme=radical&hide_title=false&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="180px" />
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=thaqiulislamkafi&theme=radical&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thaqiulislamkafi&theme=radical&hide_border=false)]
 
 
 ## 📫 Contact Me
