@@ -4,7 +4,7 @@
 
 
 <h1 align="center"><b>Hi, I'm Thaqi Ul Islam Kafi!</b></h1>
-<h4 align="center">a passionate CSE from Bangladesh who loves creating impactful web applications.  
+<h4 align="center">a passionate CSE student from Bangladesh who loves creating impactful web applications.  
 
  Currently focused on **web application development** using JavaScript frameworks like **React** and **Node.js**, with a strong mindset for solving problems through clean, efficient code. </h4>
 
@@ -33,12 +33,10 @@
 ---
 ![GitHub Streak](https://streak-stats.demolab.com?user=thaqiulislamkafi&theme=radical&hide_border=false)
 
-
+---
 ## 📫 Contact Me
 
-- ✉️ Email: yourname@email.com
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-
----
+- ✉️ Email: [thaqiulislamkafi@gmail.com](mailto:thaqiulislamkafi@gmail.com)  
+- 📱 Phone: +8801813694582  
+- 🌐 Facebook: [facebook.com/thaqiulislamkafi](https://facebook.com/thaqiulislamkafi)  
+- 💼 LinkedIn: [linkedin.com/in/thaqiulislamkafi](https://linkedin.com/in/thaqiulislamkafi)
