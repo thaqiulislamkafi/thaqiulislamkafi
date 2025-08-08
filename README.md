@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.postimg.cc/V61NTTrM/git-banner.png" alt="GitHub Banner" width="100%" height="250" />
+</p>
+
+
 <h1 align="center"><b>Hi, I'm Thaqi Ul Islam Kafi!</b></h1>
 <h4 align="center">a passionate CSE from Bangladesh who loves creating impactful web applications.  
 
