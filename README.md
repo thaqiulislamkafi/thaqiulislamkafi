@@ -27,8 +27,9 @@
 ---
 ![](https://komarev.com/ghpvc/?username=thaqiulislamkafi&color=blue)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaqiulislamkafi&show_icons=true&locale=en&layout=compact" alt="thaqiulislamkafi" />
- <img src="https://github-readme-stats.vercel.app/api?username=thaqiulislamkafi&show_icons=true&theme=radical&hide_title=false&count_private=true&cache_seconds=1800" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaqiulislamkafi&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api?username=thaqiulislamkafi&show_icons=true&theme=radical&hide_title=false&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="180px" />
+
 
 ## 📫 Contact Me
 
