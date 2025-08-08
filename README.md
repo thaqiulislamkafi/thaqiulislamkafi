@@ -18,19 +18,11 @@
 
 ---
 
-## 📂 My Projects
+## 📚 Currently Learning
 
-- 🔗 [**Profast**](https://github.com/yourusername/profast): A parcel delivery platform built with Node.js, MongoDB, and Firebase.
-- 🏠 [**Real Estate App**](https://github.com/yourusername/real-estate): A full-stack property listing app with secure Stripe payments.
-- 💬 [**MyReviews Dashboard**](https://github.com/yourusername/myreviews): User review dashboard using React + TanStack Query.
-
----
-
-## 🧠 Currently Learning
-
-- 🔐 JWT Authentication in Spring Boot
-- ☁️ Cloud Deployment with Vercel and Railway
-- 🧠 AI Prompt Engineering
+- 🧮 **Algorithms** – improving problem-solving and coding efficiency  
+- 🗄️ **MySQL Database** – mastering relational database design and queries  
+- ⚙️ **Node.js (in-depth)** – exploring advanced backend development concepts  
 
 ---
 ![](https://komarev.com/ghpvc/?username=thaqiulislamkafi&color=blue)
