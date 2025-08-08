@@ -31,7 +31,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=thaqiulislamkafi&show_icons=true&theme=radical&hide_title=false&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="180px" />
 
 ---
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahnaf-221b&" alt="ahnaf-221b" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thaqiulislamkafi&" alt="ahnaf-221b" /></p>
 
 ## 📫 Contact Me
 
