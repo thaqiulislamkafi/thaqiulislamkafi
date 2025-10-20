@@ -15,7 +15,7 @@
 <h2 >🛠️ My Skills</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,mongodb,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,mysql,mongodb,cpp,java" />
 </p>
 
 ---
