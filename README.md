@@ -5,7 +5,7 @@
 
 <h1 align="center"><b>Hi, I'm Thaqi Ul Islam Kafi!</b>
 </h1>
-<h3 align="center"><b>WEB Developer || Loves to work in Javascript based frameworks</b></h3>
+<h3 align="center"><b>CSE Undergrad || Loves to work in Javascript & TypeScript based frameworks</b></h3>
 <h4 align="center">a passionate CSE student from Bangladesh who loves creating impactful web applications.  
 
  Currently focused on **web application development** using JavaScript frameworks like **React** and **Node.js**, with a strong mindset for solving problems through clean, efficient code. </h4>
@@ -22,9 +22,10 @@
 
 ## 📚 Currently Learning
 
-- 🧮 **Algorithms** – improving problem-solving and coding efficiency  
-- 🗄️ **MySQL Database** – mastering relational database design and queries  
-- ⚙️ **Node.js (in-depth)** – exploring advanced backend development concepts  
+- 🤖 **Artificial Intelligence** – exploring core concepts and real-world applications  
+- ⚡ **Next.js** – building modern full-stack React applications with SSR & performance optimization  
+- 🔐 **Better Auth** – implementing secure and scalable authentication systems  
+- 🗃️ **Prisma ORM** – mastering database modeling and type-safe database queries  
 
 ---
 ![](https://komarev.com/ghpvc/?username=thaqiulislamkafi&color=blue)
