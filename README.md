@@ -12,11 +12,81 @@
 
 ---
 
-<h2 >🛠️ My Skills</h2>
+<h2>🛠️ My Skills</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,prisma,mysql,postgresql,mongodb,cpp,java" />
-</p>
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Technology</th>
+      <th>Purpose</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Frontend -->
+    <tr>
+      <td>Frontend</td>
+      <td>HTML</td>
+      <td>Structure and layout of web pages</td>
+    </tr>
+    <tr>
+      <td>Frontend</td>
+      <td>CSS / Tailwind CSS</td>
+      <td>Styling and responsive UI design</td>
+    </tr>
+    <tr>
+      <td>Frontend</td>
+      <td>JavaScript / TypeScript</td>
+      <td>Client-side logic and type-safe development</td>
+    </tr>
+    <tr>
+      <td>Frontend</td>
+      <td>React.js</td>
+      <td>Building dynamic and component-based user interfaces</td>
+    </tr>
+
+    <!-- Backend -->
+    <tr>
+      <td>Backend</td>
+      <td>Node.js</td>
+      <td>Server-side development and API creation</td>
+    </tr>
+    <tr>
+      <td>Backend</td>
+      <td>Prisma ORM</td>
+      <td>Type-safe database access and ORM management</td>
+    </tr>
+
+    <!-- Database -->
+    <tr>
+      <td>Database</td>
+      <td>MySQL</td>
+      <td>Relational database for structured data</td>
+    </tr>
+    <tr>
+      <td>Database</td>
+      <td>PostgreSQL</td>
+      <td>Advanced relational database with strong performance</td>
+    </tr>
+    <tr>
+      <td>Database</td>
+      <td>MongoDB</td>
+      <td>NoSQL database for flexible, document-based storage</td>
+    </tr>
+
+    <!-- Programming -->
+    <tr>
+      <td>Programming</td>
+      <td>C++</td>
+      <td>Problem solving and data structures</td>
+    </tr>
+    <tr>
+      <td>Programming</td>
+      <td>Java</td>
+      <td>Object-oriented programming and backend concepts</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
